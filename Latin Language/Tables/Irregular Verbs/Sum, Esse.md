@@ -32,7 +32,7 @@
 | --- | ---- | ------- |
 | 1st | ero  | erimus  |
 | 2nd | eris | eritis  |
-| 3rd | erit | erint |
+| 3rd | erit | erunt |
 ### Future Perfect
 |     | Sg.  | Pl.     |
 | --- | ---- | ------- |
