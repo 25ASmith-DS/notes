@@ -2,7 +2,6 @@
 *sum*, *esse*, *fui*, *futurus*
 
 # Construction
-
 ## Indicative
 ### Present
 |     | Sg. | Pl.   |
@@ -53,8 +52,12 @@
 | 1st | essem | essemus |
 | 2nd | esses | essetis |
 | 3rd | esset | essent  |
-
 ### Perfect
+|     | Sg. | Pl. |
+| --- | --- | --- |
+| 1st |     |     |
+| 2nd |     |     |
+| 3rd |     |     |
 ### Pluperfect
 |     | Sg.     | Pl.       |
 | --- | ------- | --------- |
