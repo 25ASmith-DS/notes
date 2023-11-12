@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latin Language/Tables/Irregular Verbs/Sum, Esse.md",
-                "mode": "preview",
+                "file": "Math/Calculus Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a77eb44247146b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "United States History/Daily/11-8-23.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latin Language/Tables/Irregular Verbs/Sum, Esse.md",
+                "file": "United States History/Daily/11-8-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latin Language/Tables/Irregular Verbs/Sum, Esse.md",
+                "file": "United States History/Daily/11-8-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latin Language/Tables/Irregular Verbs/Sum, Esse.md"
+                "file": "United States History/Daily/11-8-23.md"
               }
             }
           },
@@ -175,45 +188,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e25eee41eb71db3c",
+  "active": "5a77eb44247146b7",
   "lastOpenFiles": [
-    "Latin Language/Tables/Irregular Verbs/Possum, Posse.md",
-    "Latin Language/Tables/Irregular Verbs/Sum, Esse.md",
-    "Physics/Newtonian Mechanics/Sir Isaac Newton.md",
-    "Physics/Newtonian Mechanics/Newton's Second Law.md",
-    "Physics/Newtonian Mechanics/Newton's First Law.md",
-    "Physics/Newtonian Mechanics/Newton's Third Law.md",
-    "Physics/Free Body Diagrams.md",
+    "Math/Calculus Project.md",
+    "Latin History/Table of Contents.md",
+    "Math/Proofs/Derivative Rules/e^x.md",
+    "Math/Proofs/Derivative Rules/e^(ax).md",
+    "Math/Proofs/Derivative Rules/Untitled.md",
+    "Math/Proofs/Derivative Rules/e^.md",
+    "Math/Proofs/Derivative Rules/^.md",
+    "Math/Proofs/Derivative Rules/^",
+    "Math/Proofs/Derivative Rules/1.md",
+    "Math/Proofs/Derivative Rules",
+    "Math/Proofs",
+    "Math",
+    "Untitled.md",
+    "Latin History/Republic Project/Roman Constitution.md",
+    "Latin History/Republic Project/Magistrates.md",
+    "Latin History/Republic Project/Assemblies.md",
+    "The.md",
+    "United States History/Daily/11-8-23.md",
+    "Latin History/Republic Project",
     "Physics/Constant Acceleration Equations.md",
+    "Latin Language/Constructions/Subjunctive Verbs.md",
+    "Latin Language/Tables/Irregular Verbs/Possum, Posse.md",
+    "Physics/Newtonian Mechanics/Sir Isaac Newton.md",
+    "Physics/Newtonian Mechanics/Newton's Third Law.md",
+    "Physics/Newtonian Mechanics/Newton's First Law.md",
+    "Latin Language/Constructions/Verb Families.md",
+    "Latin Language/Tables/Irregular Verbs/Sum, Esse.md",
+    "Physics/Newtonian Mechanics/Newton's Second Law.md",
+    "Physics/Free Body Diagrams.md",
     "Latin Language/Tables/Sequence of Tense.md",
     "Latin Language/Tables/Indicative Active Verb Endings.md",
-    "Latin Language/Constructions/Subjunctive Clauses/Result Clauses.md",
-    "Latin Language/Constructions/Subjunctive Verbs.md",
-    "Latin Language/Constructions/Verb Families.md",
-    "Latin Language/Constructions/Principle Parts.md",
-    "Latin Language/Constructions/Subjunctive Clauses/Cum Clauses.md",
     "Latin Language/Tables/Irregular Verbs",
-    "Physics/Percent Error Equation.md",
-    "Physics/Constant Acceleration Equations/Untitled.md",
-    "Physics/Constant Acceleration Equations/Equation 1.md",
     "Physics/Newtonian Mechanics/Untitled.canvas",
     "Physics/Newtonian Mechanics",
-    "Physics/Vectors.md",
-    "Physics/Constant Acceleration Equations/Equation 4.md",
-    "Physics/Constant Acceleration Equations/Equation 2.md",
-    "my_process.md",
-    "Latin Language/Tables/Noun Endings.md",
-    "United States History/Daily/10-25-23.md",
-    "Physics/Projectile Motion.md",
-    "Latin Language/Constructions/Gerundives.md",
     "Latin Language/Constructions/Ablative Constructions",
     "Latin Language/Constructions/Subjunctive Clauses",
     "Latin Language/Constructions/Infinitive Constructions",
-    "Untitled.canvas",
-    "AT Calculus/Homework/stuff.tex",
-    "AT Calculus/Homework",
-    "AT Calculus",
-    "Physics/Constant Acceleration Equations",
-    "Physics"
+    "Untitled.canvas"
   ]
 }
