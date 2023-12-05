@@ -9,7 +9,7 @@
 | 3rd    | -t       | -nt    |
 
 # Imperfect
-2nd PP - *re* + *ba* + endings
+2nd PP - *re* + *ba* + present endings
 
 | Person | Singular | Plural |
 | ------ | -------- | ------ |
@@ -18,7 +18,7 @@
 | 3rd    | -bat     | -bant  |
 
 # Perfect
-3rd PP - *i* + endings
+3rd PP - *i* + perfect endings
 
 | Person     | Singular | Plural |
 | ---------- | -------- | ------ |
@@ -27,7 +27,7 @@
 | 3rd Person | -t       | -erunt |
 
 # Pluperfect
-3rd PP - *i* + *era* + [lol](Indicative\ Active\ Verb\ Endings.md)
+3rd PP - *i* + *era* + present endings
 
 | Person | Singular | Plural  |
 | ------ | -------- | ------- |
@@ -36,14 +36,19 @@
 | 3rd    | -erat    | -erant  |
 
 # Future
-### 1st / 2nd Family Verbs
+### 1st / 2nd Family
+2nd PP - *re* + *bo*
+2nd PP - *re* + *bi* + present endings
+
 | Person | Singular | Plural |
 | ------ | -------- | ------ |
 | 1st    | -bo      | -bimus |
 | 2nd    | -bis     | -bitis |
 | 3rd    | -bit     | -bunt  |
 
-### 3rd / 4th Family Verbs
+### 3rd / 4th Family
+2nd PP - *re* + endings
+
 | Person | Singular | Plural |
 | ------ | -------- | ------ |
 | 1st    | -am      | -emus  |
@@ -51,16 +56,13 @@
 | 3rd    | -et      | -ent   |
 
 # Future Perfect
-### 1st / 2nd Family Verbs
-| Person | Singular | Plural |
-| ------ | -------- | ------ |
-| 1st    | -am      | -      |
-| 2nd    | -     | -bitis |
-| 3rd    | -bit     | -bunt  |
+3rd PP - *re* + *am*
+3rd PP - *re* + *e* + present endings
 
-### 3rd / 4th Family Verbs
+
 | Person | Singular | Plural  |
 | ------ | -------- | ------- |
 | 1st    | -ero     | -erimus |
 | 2nd    | -eris    | -eritis |
 | 3rd    | -erit    | -erint   |
+Difficult to tell the difference between future perfect and [[Subjunctive Verbs#Perfect|subjunctive perfect]]

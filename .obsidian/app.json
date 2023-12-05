@@ -7,6 +7,6 @@
   "vimMode": true,
   "rightToLeft": false,
   "alwaysUpdateLinks": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "autoPairMarkdown": true
 }

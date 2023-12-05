@@ -1,6 +1,4 @@
-[[Recipe Book#Result Clauses]]
-
-# Constructions
+# Construction
 ### Latin:
 1) "so" word
 	- tam

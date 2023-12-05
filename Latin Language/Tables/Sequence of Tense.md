@@ -4,7 +4,7 @@
 
 # Concept
 
-When translating from English to Latin with a subjunctive clause in your sentence, use these charts to figure out the subjunctive verb tense. Which chart is used is based on the **sequence** of the indicative verb.
+When translating from English to Latin with a [[Subjunctive Verbs|subjunctive clause]] clause in your sentence, use these charts to figure out the [[Subjunctive verb's|]] tense. Which chart is used is based on the **sequence** of the indicative verb.
 
 ### Primary Sequence
 | Main \_\_\_\_ Subordinate | Subjunctive Tense |
