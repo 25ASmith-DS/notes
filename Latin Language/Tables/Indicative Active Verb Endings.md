@@ -56,13 +56,10 @@
 | 3rd    | -et      | -ent   |
 
 # Future Perfect
-3rd PP - *re* + *am*
-3rd PP - *re* + *e* + present endings
-
 
 | Person | Singular | Plural  |
 | ------ | -------- | ------- |
 | 1st    | -ero     | -erimus |
 | 2nd    | -eris    | -eritis |
-| 3rd    | -erit    | -erint   |
-Difficult to tell the difference between future perfect and [[Subjunctive Verbs#Perfect|subjunctive perfect]]
+| 3rd    | -erit    | -erint  |
+

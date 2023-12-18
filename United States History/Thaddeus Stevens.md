@@ -1,0 +1,1 @@
+Thaddeus Stevens was a radical republican representative. He had a plan for reconstruction to redistribute southern land to newly freed African Americans ("Forty acres and a mule"). His plan was rejected by Johnson because of the potential backlash from southern landowners and the extreme cost (not to mention a little racism) in favor of the Freedman's Bureau.
