@@ -8,13 +8,13 @@ Indirect statements provide more information about the verb in a main clause; by
 
 # Construction
 ##### Latin
-Regular clause + accusative subject + [infinitive verb](Infinitives.md)
+clause + accusative subject + [[Infinitives|infinitive verb]] 
 ##### English
 **Key conjunction**: "that"
 Regular clause + *that* + accusative subject - present verb
 # Examples
 
-"*nuntius dicit **hostes appropinquare***"
+"*nuntius dicit __hostes appropinquare__*"
 "The messenger says that **the enemies are approaching**"
 
 "*audio __Agricolam bellum in Caledonia gerere__*"
