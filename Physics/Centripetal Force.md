@@ -16,3 +16,11 @@ $a_c$ is centripetal acceleration
 $v$ is linear velocity
 $r$ is radius
 $T$ is period of revolution
+
+# Special Cases
+## Level Curve
+$$ a_c = \mu g $$
+## Banked Curve
+$$ a_c=g\tan\theta $$
+## Turkish Twist
+$$ a_c=\frac{g}{\mu} $$

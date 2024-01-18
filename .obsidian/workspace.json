@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "befe1d740dd28a3f",
+        "id": "984084b0ac795380",
         "type": "tabs",
         "children": [
           {
-            "id": "424a3cc5413e56ec",
+            "id": "aab3b08f7d972909",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Physics/Centripetal Force.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e1e4fc000e6eec84",
@@ -177,19 +178,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "424a3cc5413e56ec",
+  "active": "aab3b08f7d972909",
   "lastOpenFiles": [
+    "Latin Language/Constructions/Infinitives.md",
+    "Latin Language/Constructions/Indirect Statements.md",
+    "Latin Language/Constructions/Gerundives.md",
     "Physics/Centripetal Force.md",
-    "Physics/Tension Force.md",
+    "English/The Joy Luck Club/Media Portrayal of Asian Americans post-1980s.md",
+    "English/The Joy Luck Club/Untitled.md",
     "English/The Joy Luck Club/Representation of Asian Americans in 1980s Cinema.md",
+    "English/The Joy Luck Club/Orientalism.md",
+    "Math/General Recursive Functions.md",
+    "Math/Calculus Project.md",
+    "Physics/Tension Force.md",
     "English/The Joy Luck Club/Representation of Asian Americans in 1980s Cinema.md~",
     "Latin Language/Tables/Indicative Active Verb Endings.md",
-    "English/The Joy Luck Club/Orientalism.md",
     "Cool Math Games.md",
     "2023-12-14.md",
     "Latin Language/Tables/Irregular Verbs/Sum, Esse.md",
     "English/The Joy Luck Club",
-    "Latin Language/Constructions/Present Indirect Statements.md",
     "Latin Language/Tables/Sequence of Tense.md",
     "Latin Language/Tables/Noun Endings.md",
     "Math/Proofs/Derivative Rules/e^x.md",
@@ -202,12 +209,6 @@
     "United States History/Daily/12-5-21.md",
     "United States History/Nat Turner.md",
     "United States History/Daily/9-6-23.md",
-    "United States History/Daily/12-1-23.md",
-    "Latin Language/Tables/Irregular Verbs/Possum, Posse.md",
-    "Physics/Newtonian Mechanics/Newton's Third Law.md",
-    "Physics/Newtonian Mechanics/Newton's Second Law.md",
-    "Physics/Newtonian Mechanics/Sir Isaac Newton.md",
-    "Physics/Newtonian Mechanics/Newton's First Law.md",
     "Math/Proofs/Derivative Rules/^",
     "Math/Proofs/Derivative Rules",
     "Math/Proofs",
