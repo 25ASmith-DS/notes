@@ -1,8 +1,14 @@
 # Concept
 Cum clauses are a subjunctive clause that gives a timeframe for a clause
 
-When with the indicative → *cum* means “with”
-When with the subjunctive → *cum* means “when”
+# Construction
+## Latin
+1) *cum*
+2) Subjunctive verb
+## English
+1) "when \<the rest of the clause with the subjunctive verb\>"
+2) "since \<the rest of the clause with the subjunctive verb\>"
+2) "although \<the rest of the clause with the subjunctive verb\>"
 
 # Examples
 “**cum** Modestus ad pontem advenisset, equus transire nolebat.”

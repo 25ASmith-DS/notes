@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "984084b0ac795380",
+        "id": "81ad00a14bf0df45",
         "type": "tabs",
         "children": [
           {
-            "id": "aab3b08f7d972909",
+            "id": "f265365c2e923b87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Centripetal Force.md",
-                "mode": "preview",
+                "file": "Latin Language/Constructions/Subjunctive Clauses/Cum Clauses.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e1e4fc000e6eec84",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Centripetal Force.md",
+                "file": "Latin Language/Constructions/Subjunctive Clauses/Cum Clauses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Centripetal Force.md",
+                "file": "Latin Language/Constructions/Subjunctive Clauses/Cum Clauses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Centripetal Force.md"
+                "file": "Latin Language/Constructions/Subjunctive Clauses/Cum Clauses.md"
               }
             }
           },
@@ -178,12 +177,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aab3b08f7d972909",
+  "active": "f265365c2e923b87",
   "lastOpenFiles": [
-    "Latin Language/Constructions/Infinitives.md",
-    "Latin Language/Constructions/Indirect Statements.md",
+    "Latin Language/Constructions/Gerunds.md",
     "Latin Language/Constructions/Gerundives.md",
-    "Physics/Centripetal Force.md",
+    "Latin Language/Constructions/Subjunctive Clauses/Cum Clauses.md",
+    "Latin Language/Constructions/Indirect Statements.md",
+    "Latin Language/Constructions/Infinitives.md",
+    "Untitled 1.md",
+    "Latin Language/Tables/Irregular Verbs/Sum, Esse.md",
+    "Latin Language/Constructions/Ablative Constructions/Expressions of Time.md",
+    "Physics/Energy/Kinetic Energy.md",
+    "Physics/Energy/Gravitational Potential Energy.md",
+    "Physics/Energy/Work.md",
+    "Physics/Energy",
+    "Physics/Newtonian Mechanics/Centripetal Force.md",
+    "Latin Language/Constructions/Subjunctive Clauses/Fearing Clause.md",
     "English/The Joy Luck Club/Media Portrayal of Asian Americans post-1980s.md",
     "English/The Joy Luck Club/Untitled.md",
     "English/The Joy Luck Club/Representation of Asian Americans in 1980s Cinema.md",
@@ -195,20 +204,11 @@
     "Latin Language/Tables/Indicative Active Verb Endings.md",
     "Cool Math Games.md",
     "2023-12-14.md",
-    "Latin Language/Tables/Irregular Verbs/Sum, Esse.md",
     "English/The Joy Luck Club",
     "Latin Language/Tables/Sequence of Tense.md",
     "Latin Language/Tables/Noun Endings.md",
     "Math/Proofs/Derivative Rules/e^x.md",
-    "Physics/Friction Force.md",
-    "Math/Proofs/Derivative Rules/e^(ax).md",
-    "Latin Language/Constructions/Ablative Constructions/Expressions of Time.md",
-    "Latin Language/Constructions/Subjunctive Clauses/Result Clauses.md",
-    "Latin Language/Constructions/Subjunctive Verbs.md",
     "English",
-    "United States History/Daily/12-5-21.md",
-    "United States History/Nat Turner.md",
-    "United States History/Daily/9-6-23.md",
     "Math/Proofs/Derivative Rules/^",
     "Math/Proofs/Derivative Rules",
     "Math/Proofs",
@@ -216,7 +216,6 @@
     "Latin History/Republic Project",
     "Latin Language/Tables/Irregular Verbs",
     "Physics/Newtonian Mechanics/Untitled.canvas",
-    "Physics/Newtonian Mechanics",
     "Untitled.canvas"
   ]
 }
